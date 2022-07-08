@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01a53650-6d42-4a00-aecf-87d920c7324b" name="Changes" comment="" />
+    <list default="true" id="01a53650-6d42-4a00-aecf-87d920c7324b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/avito_parser/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avito_parser/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avito_parser/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avito_parser/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avito_parser/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avito_parser/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avito_parser/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avito_parser/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_page/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_page/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_page/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_page/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_page/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_page/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_page/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/avito_parser/avito_parser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/main_page/main_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/vkontakte_posting/vkontakte_posting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vkontakte_posting/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vkontakte_posting/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vkontakte_posting/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vkontakte_posting/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vkontakte_posting/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vkontakte_posting/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vkontakte_posting/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vkontakte_posting/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationSocialNetworks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationSocialNetworks/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationSocialNetworks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationSocialNetworks/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,21 +47,34 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BTPdjVTVqxVOuJK0EZz2zTvhDA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Onuchin Anton/Documents/Projects Python/AutomationSocialNetworks/venv/Scripts/python.exe",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Onuchin Anton/Documents/Projects Python/AutomationSocialNetworks/vkontakte_posting",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Onuchin Anton\Documents\Projects Python\AutomationSocialNetworks\vkontakte_posting" />
+      <recent name="C:\Users\Onuchin Anton\Documents\Projects Python\AutomationSocialNetworks\avito_parser" />
+      <recent name="C:\Users\Onuchin Anton\Documents\Projects Python\AutomationSocialNetworks\main_page" />
+      <recent name="C:\Users\Onuchin Anton\Documents\Projects Python\AutomationSocialNetworks\templates\main_page" />
+      <recent name="C:\Users\Onuchin Anton\Documents\Projects Python\AutomationSocialNetworks\templates\avito_parser" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Onuchin Anton\Documents\Projects Python\AutomationSocialNetworks\templates" />
+      <recent name="C:\Users\Onuchin Anton\Documents\Projects Python\AutomationSocialNetworks\templates\vkontakte_posting" />
       <recent name="C:\Users\Onuchin Anton\Documents\Projects Python\AutomationSocialNetworks" />
     </key>
   </component>
@@ -45,6 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -63,8 +110,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656927192570</updated>
+      <workItem from="1657266336434" duration="365000" />
+      <workItem from="1657266822982" duration="52000" />
+      <workItem from="1657267481157" duration="4439000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -76,5 +129,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
